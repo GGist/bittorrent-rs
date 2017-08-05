@@ -5,8 +5,8 @@ description      = "Bittorrent Client And Library Written In Rust, Using bip-rs"
 
 authors          = ["Andrew <amiller4421@gmail.com>"]
 
-homepage         = "https://github.com/GGist/bittorrent"
-repository       = "https://github.com/GGist/bittorrent"
+homepage         = "https://github.com/GGist/bittorrent-rs"
+repository       = "https://github.com/GGist/bittorrent-rs"
 documentation    = "https://docs.rs/bittorrent/"
 
 keywords         = ["bittorrent"]
